@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sKBSojTfHR0WdPaIrY17UfmVQ+lrKunFJyN7ErShYUH58aGzRWqyTavuLSwL49kM0mUF+GGLo0J8SpsBUGP90A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SALMAN\\Desktop\\Dotnet_API_prac\\Xamarin_mobile_prac\\Xamarin_mobile_prac.iOS\\Xamarin_mobile_prac.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SALMAN\\.nuget\\packages\\firebaseauthentication.net\\3.7.1\\firebaseauthentication.net.3.7.1.nupkg.sha512",
+    "C:\\Users\\SALMAN\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\SALMAN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

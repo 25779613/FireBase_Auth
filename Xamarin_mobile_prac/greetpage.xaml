@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_mobile_prac.greetpage">
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Label Text="HI Dev" x:Name="greetLabel"></Label>
+        <Button  Text="Click Me" Clicked="Button_Clicked"
+            ></Button>
+        <Slider BackgroundColor="Blue" ValueChanged="Slider_ValueChanged"></Slider>
+        <Slider x:Name="slider2"></Slider>
+        <Label Text="{Binding Source={x:Reference slider2},
+            Path=Value,
+            StringFormat='Value is {0:F2}'}"
+            Opacity="{Binding
+            Source={x:Reference slider2},
+            Path=Value }"
+               ></Label>
+    </StackLayout>
+    
+</ContentPage>

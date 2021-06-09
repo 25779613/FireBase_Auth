@@ -1,0 +1,17 @@
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\bin\Debug\netstandard2.0\Xamarin_mobile_prac.deps.json
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\bin\Debug\netstandard2.0\Xamarin_mobile_prac.dll
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\bin\Debug\netstandard2.0\ref\Xamarin_mobile_prac.dll
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\bin\Debug\netstandard2.0\Xamarin_mobile_prac.pdb
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\obj\Debug\netstandard2.0\Xamarin_mobile_prac.csproj.AssemblyReference.cache
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\obj\Debug\netstandard2.0\greetpage.xaml.g.cs
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\obj\Debug\netstandard2.0\Xamarin_mobile_prac.AssemblyInfoInputs.cache
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\obj\Debug\netstandard2.0\Xamarin_mobile_prac.AssemblyInfo.cs
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\obj\Debug\netstandard2.0\Xamarin_mobile_prac.csproj.CoreCompileInputs.cache
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\obj\Debug\netstandard2.0\Xamarin_mobile_prac.dll
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\obj\Debug\netstandard2.0\ref\Xamarin_mobile_prac.dll
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\obj\Debug\netstandard2.0\Xamarin_mobile_prac.pdb
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\obj\Debug\netstandard2.0\Dashboard.xaml.g.cs
+C:\Users\SALMAN\Desktop\Dotnet_API_prac\Xamarin_mobile_prac\Xamarin_mobile_prac\obj\Debug\netstandard2.0\Login.xaml.g.cs
